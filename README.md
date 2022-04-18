@@ -15,7 +15,7 @@ packages.
 <a name="usage">Usage</a>
 -------------------------
 
-To use the module in your Go modules `go get -d github.com/alt-golang/gosypt`
+To use the module in your Go modules `go get -d github.com/alt-golang/gosypt.pkg`
 
 ```go
     package main
