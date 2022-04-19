@@ -1,4 +1,4 @@
-package gosypt
+package gosypt_pkg
 
 import (
 	"crypto/aes"
